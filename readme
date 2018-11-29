@@ -1,0 +1,14 @@
+There are two codes in this folder...
+(You might need to install json,csv packages if prompted)
+
+Input file name taken - 'input.json'
+
+One code without the bonus parts - 'assignment.py'
+
+To execute : python assignment.py
+
+One code with the two bonus parts - 'bonus_assignment.py'
+
+To execute : python bonus_assignment.py
+You will be asked to enter your preferences on the terminal. Please do so in the manner specified.
+
